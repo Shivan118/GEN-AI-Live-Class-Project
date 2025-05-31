@@ -9,7 +9,7 @@ from docx import Document
 from fpdf import FPDF
 
 # --- CONFIGURATION ---
-genai.configure(api_key="AIzaSyDhm-4fh5kGXkXfHpBA3YLFe3ciNy8q8NY")
+genai.configure(api_key="AIzaSyDhm-")
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 # --- UTILS ---
