@@ -6,7 +6,7 @@ import unicodedata
 import re
 
 # --- CONFIGURATION ---
-genai.configure(api_key="AIzaSyDhm-4fh5kGXkXfHpBA3YLFe3ciNy8q8NY")  # Replace with your Gemini API Key
+genai.configure(api_key="AIzaSyDhm-")  # Replace with your Gemini API Key
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 # Translator
